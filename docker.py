@@ -1,1 +1,1 @@
-print("dockerize all")
+print("dockerize all and implement containers")
